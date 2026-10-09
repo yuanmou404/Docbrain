@@ -1,0 +1,7 @@
+.git
+.env
+data/
+eval/reports/
+**/__pycache__/
+*.pyc
+.cache/
